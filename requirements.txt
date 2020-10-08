@@ -1,0 +1,5 @@
+pytesseract
+requests
+azure.cognitiveservices.vision.computervision
+flask
+opencv-python
